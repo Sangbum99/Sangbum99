@@ -38,11 +38,15 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 #### Careers 🎓
 
 ---
-**Development of Indoor and Outdoor Integrated Navigation Technology**  
-**for Operating in Unknown and Harsh Environments**  
-*Sep. 2023 - current*
+<div>
+  <strong>Development of Indoor and Outdoor Integrated Navigation Technology</strong><br>
+  <strong>for Operating in Unknown and Harsh Environments</strong><br>
+  <em>Sep. 2023 - current</em>
+</div>
+<div>
+  Korea Aerospace Research Institute
+</div>
 
-Korea Aerospace Research Institute
 
 
 <div style="display:flex;justify-content:space-between;line-height:0.8;">
