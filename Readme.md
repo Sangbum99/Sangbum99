@@ -48,6 +48,8 @@ I am always open to collaboration and happy to discuss any of my previous work. 
   </tr>
 </table>
 
+<p style="font-weight:bold; display:inline-block;">Master of Aerospace Engineering</p>
+<p style="display:inline-block; float:right;">Sep. 2023 - current</p>
 
 
 <div style="display:flex;justify-content:space-between;line-height:0.8;">
