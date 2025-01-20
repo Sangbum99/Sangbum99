@@ -38,6 +38,12 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 #### Careers 🎓
 
 ---
+**Development of Indoor and Outdoor Integrated Navigation Technology**  
+**for Operating in Unknown and Harsh Environments**  
+*Sep. 2023 - current*
+
+Korea Aerospace Research Institute
+
 
 <div style="display:flex;justify-content:space-between;line-height:0.8;">
   <p style="font-weight:bold;">Master of Aerospace Engineering</p>
