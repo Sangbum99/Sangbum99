@@ -37,6 +37,12 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 #### Careers 🎓
 
 ---
+<div style="display: flex; justify-content: space-between; width: 100%; line-height: 1.5;">
+  <p style="flex: 1; text-align: left;">I am a Visual-Inertial SLAM engineer from Korea with a strong passion for robotics 🤖. Currently, I am pursuing my master's degree in the Navigation and Electronics System Lab (NESL) at Seoul National University. I specialize in designing probabilistic estimators using multiple programming languages, including C++ and Python with ROS ⚔️. While I have a few accepted papers, I take pride in developing my own code, which is available in my repositories. In addition to my SLAM works, I am capable of performing structural and aerodynamic analysis using CATIA and AutoCAD ⚙️.</p>
+  <p style="flex: 1; text-align: right;">I am always open to collaboration and happy to discuss any of my previous work. Please feel free to reach out with any questions 👏👏.</p>
+</div>
+
+
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="font-weight:bold; border: none;">Master of Aerospace Engineering</td>
