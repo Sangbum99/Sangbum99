@@ -37,6 +37,18 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 #### Careers 🎓
 
 ---
+<table style="width:100%;">
+  <tr>
+    <td style="font-weight:bold;">Master of Aerospace Engineering</td>
+    <td style="text-align:right;">Sep. 2023 - current</td>
+  </tr>
+  <tr>
+    <td>Seoul National University</td>
+    <td></td>
+  </tr>
+</table>
+
+
 
 <div style="display:flex;justify-content:space-between;line-height:0.8;">
   <p style="font-weight:bold;">Master of Aerospace Engineering</p>
