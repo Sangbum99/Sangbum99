@@ -35,9 +35,9 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 
 
 
-### CV 📃
+### Homepage 📃
 
 ---
 
-Check my [CV](https://sangbum99.github.io/) for more professional information!🎉
+Check my [Homepage](https://sangbum99.github.io/) for more professional information!🎉
 
